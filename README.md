@@ -40,11 +40,9 @@
 
 <body>
 <ul>
-<li>Liguagem Python e suas Libraries (Pandas, Numpy, Matplotlib, ...);</li>
-<li>Linguaguem de Banco de Dados Relacionais (MySQL e Metabase);</li>
-<li>Ambientes de Programação e Versionamento (VSCode, Jupyter, Pycharm, Git e GitHub);</li>
-<li>Estatística (Descritiva, Inferencial e Avançadao);</li>
-<li>Data Cleaning, Data Wrangling e Data Storytelling;</li>
-<li>Processos e Metodologias Ágeis como CRISP-DM e SCRUM, respectivamente;</li>
+<li>Linguagem Python e algumas das suas bibliotecas de manipulação de dados (Pyspark e Requests)</li>
+<li>Linguagem de Banco de Dados Relacionais (SQL e Metabase);</li>
+<li>Ambientes de Programação e Versionamento (VSCode, Databricks, Jupyter, Git e GitHub);</li>
+<li>Power BI e Linguagem DAX;</li>
 </ul>
 </body>
